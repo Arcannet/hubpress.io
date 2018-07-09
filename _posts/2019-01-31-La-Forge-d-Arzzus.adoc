@@ -3,6 +3,6 @@
 :hp-image: /covers/cover.png
 :published_at: 2019-01-31
 :hp-tags: HubPress, Blog, Open_Source,
-:hp-alt-title: My English Title
+:hp-alt-title: La Forge d'Arzzus
 
 Mon premier article
