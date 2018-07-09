@@ -9,7 +9,7 @@
   },
   "urls": {
     "site": "https://arcannet.github.io/blog",
-    "hubpress": "https://arcannet.github.io/blog",
+    "hubpress": "http://192.168.99.100/blog",
     "theme": "//arcannet.github.io/blog/themes/casper",
     "images": "https://arcannet.github.io/blog/images"
   },
